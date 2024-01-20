@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\joaof\OneDrive\Área de Trabalho\educ360projeto\.metadata\.plugins\org.eclipse.jdt.core
+3979999384.index
+3841185164.index
+1865797976.index

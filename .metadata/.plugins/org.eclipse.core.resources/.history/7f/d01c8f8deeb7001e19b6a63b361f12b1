@@ -1,0 +1,5 @@
+package junit.factories;
+
+public class AccountFactory {
+
+}

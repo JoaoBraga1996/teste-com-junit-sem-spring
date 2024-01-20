@@ -1,0 +1,5 @@
+package junit.entities.tests;
+
+public class AccountTests {
+
+}
